@@ -1,0 +1,52 @@
+C:\Users\user\source\repos\.NET Road Map\Entity-Framework\Data Annotations Attributes\Data Annotations Attributes\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\user\source\repos\.NET Road Map\Entity-Framework\Data Annotations Attributes\Data Annotations Attributes\bin\Debug\net7.0\appsettings.json
+C:\Users\user\source\repos\.NET Road Map\Entity-Framework\Data Annotations Attributes\Data Annotations Attributes\bin\Debug\net7.0\Data Annotations Attributes.staticwebassets.runtime.json
+C:\Users\user\source\repos\.NET Road Map\Entity-Framework\Data Annotations Attributes\Data Annotations Attributes\bin\Debug\net7.0\Data Annotations Attributes.exe
+C:\Users\user\source\repos\.NET Road Map\Entity-Framework\Data Annotations Attributes\Data Annotations Attributes\bin\Debug\net7.0\Data Annotations Attributes.deps.json
+C:\Users\user\source\repos\.NET Road Map\Entity-Framework\Data Annotations Attributes\Data Annotations Attributes\bin\Debug\net7.0\Data Annotations Attributes.runtimeconfig.json
+C:\Users\user\source\repos\.NET Road Map\Entity-Framework\Data Annotations Attributes\Data Annotations Attributes\bin\Debug\net7.0\Data Annotations Attributes.dll
+C:\Users\user\source\repos\.NET Road Map\Entity-Framework\Data Annotations Attributes\Data Annotations Attributes\bin\Debug\net7.0\Data Annotations Attributes.pdb
+C:\Users\user\source\repos\.NET Road Map\Entity-Framework\Data Annotations Attributes\Data Annotations Attributes\bin\Debug\net7.0\EntityFramework.SqlServer.dll
+C:\Users\user\source\repos\.NET Road Map\Entity-Framework\Data Annotations Attributes\Data Annotations Attributes\bin\Debug\net7.0\EntityFramework.dll
+C:\Users\user\source\repos\.NET Road Map\Entity-Framework\Data Annotations Attributes\Data Annotations Attributes\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\source\repos\.NET Road Map\Entity-Framework\Data Annotations Attributes\Data Annotations Attributes\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\user\source\repos\.NET Road Map\Entity-Framework\Data Annotations Attributes\Data Annotations Attributes\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\source\repos\.NET Road Map\Entity-Framework\Data Annotations Attributes\Data Annotations Attributes\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\user\source\repos\.NET Road Map\Entity-Framework\Data Annotations Attributes\Data Annotations Attributes\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\user\source\repos\.NET Road Map\Entity-Framework\Data Annotations Attributes\Data Annotations Attributes\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\source\repos\.NET Road Map\Entity-Framework\Data Annotations Attributes\Data Annotations Attributes\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\user\source\repos\.NET Road Map\Entity-Framework\Data Annotations Attributes\Data Annotations Attributes\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\user\source\repos\.NET Road Map\Entity-Framework\Data Annotations Attributes\Data Annotations Attributes\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\source\repos\.NET Road Map\Entity-Framework\Data Annotations Attributes\Data Annotations Attributes\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\user\source\repos\.NET Road Map\Entity-Framework\Data Annotations Attributes\Data Annotations Attributes\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\user\source\repos\.NET Road Map\Entity-Framework\Data Annotations Attributes\Data Annotations Attributes\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\user\source\repos\.NET Road Map\Entity-Framework\Data Annotations Attributes\Data Annotations Attributes\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\source\repos\.NET Road Map\Entity-Framework\Data Annotations Attributes\Data Annotations Attributes\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\source\repos\.NET Road Map\Entity-Framework\Data Annotations Attributes\Data Annotations Attributes\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\user\source\repos\.NET Road Map\Entity-Framework\Data Annotations Attributes\Data Annotations Attributes\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\user\source\repos\.NET Road Map\Entity-Framework\Data Annotations Attributes\Data Annotations Attributes\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\source\repos\.NET Road Map\Entity-Framework\Data Annotations Attributes\Data Annotations Attributes\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\user\source\repos\.NET Road Map\Entity-Framework\Data Annotations Attributes\Data Annotations Attributes\obj\Debug\net7.0\Data Annotations Attributes.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\.NET Road Map\Entity-Framework\Data Annotations Attributes\Data Annotations Attributes\obj\Debug\net7.0\Data Annotations Attributes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\.NET Road Map\Entity-Framework\Data Annotations Attributes\Data Annotations Attributes\obj\Debug\net7.0\Data Annotations Attributes.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\.NET Road Map\Entity-Framework\Data Annotations Attributes\Data Annotations Attributes\obj\Debug\net7.0\Data Annotations Attributes.AssemblyInfo.cs
+C:\Users\user\source\repos\.NET Road Map\Entity-Framework\Data Annotations Attributes\Data Annotations Attributes\obj\Debug\net7.0\Data Annotations Attributes.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\.NET Road Map\Entity-Framework\Data Annotations Attributes\Data Annotations Attributes\obj\Debug\net7.0\Data Annotations Attributes.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\source\repos\.NET Road Map\Entity-Framework\Data Annotations Attributes\Data Annotations Attributes\obj\Debug\net7.0\Data Annotations Attributes.RazorAssemblyInfo.cache
+C:\Users\user\source\repos\.NET Road Map\Entity-Framework\Data Annotations Attributes\Data Annotations Attributes\obj\Debug\net7.0\Data Annotations Attributes.RazorAssemblyInfo.cs
+C:\Users\user\source\repos\.NET Road Map\Entity-Framework\Data Annotations Attributes\Data Annotations Attributes\obj\Debug\net7.0\staticwebassets\msbuild.Data Annotations Attributes.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\source\repos\.NET Road Map\Entity-Framework\Data Annotations Attributes\Data Annotations Attributes\obj\Debug\net7.0\staticwebassets\msbuild.build.Data Annotations Attributes.props
+C:\Users\user\source\repos\.NET Road Map\Entity-Framework\Data Annotations Attributes\Data Annotations Attributes\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Data Annotations Attributes.props
+C:\Users\user\source\repos\.NET Road Map\Entity-Framework\Data Annotations Attributes\Data Annotations Attributes\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Data Annotations Attributes.props
+C:\Users\user\source\repos\.NET Road Map\Entity-Framework\Data Annotations Attributes\Data Annotations Attributes\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\user\source\repos\.NET Road Map\Entity-Framework\Data Annotations Attributes\Data Annotations Attributes\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\user\source\repos\.NET Road Map\Entity-Framework\Data Annotations Attributes\Data Annotations Attributes\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\user\source\repos\.NET Road Map\Entity-Framework\Data Annotations Attributes\Data Annotations Attributes\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\user\source\repos\.NET Road Map\Entity-Framework\Data Annotations Attributes\Data Annotations Attributes\obj\Debug\net7.0\scopedcss\bundle\Data Annotations Attributes.styles.css
+C:\Users\user\source\repos\.NET Road Map\Entity-Framework\Data Annotations Attributes\Data Annotations Attributes\obj\Debug\net7.0\scopedcss\projectbundle\Data Annotations Attributes.bundle.scp.css
+C:\Users\user\source\repos\.NET Road Map\Entity-Framework\Data Annotations Attributes\Data Annotations Attributes\obj\Debug\net7.0\Data Annotations Attributes.csproj.CopyComplete
+C:\Users\user\source\repos\.NET Road Map\Entity-Framework\Data Annotations Attributes\Data Annotations Attributes\obj\Debug\net7.0\Data Annotations Attributes.dll
+C:\Users\user\source\repos\.NET Road Map\Entity-Framework\Data Annotations Attributes\Data Annotations Attributes\obj\Debug\net7.0\refint\Data Annotations Attributes.dll
+C:\Users\user\source\repos\.NET Road Map\Entity-Framework\Data Annotations Attributes\Data Annotations Attributes\obj\Debug\net7.0\Data Annotations Attributes.pdb
+C:\Users\user\source\repos\.NET Road Map\Entity-Framework\Data Annotations Attributes\Data Annotations Attributes\obj\Debug\net7.0\Data Annotations Attributes.genruntimeconfig.cache
+C:\Users\user\source\repos\.NET Road Map\Entity-Framework\Data Annotations Attributes\Data Annotations Attributes\obj\Debug\net7.0\ref\Data Annotations Attributes.dll
