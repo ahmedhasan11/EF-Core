@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\source\\repos\\.NET Road Map\\Entity-Framework\\Data Anootation 2\\Data Anootation 2\\Data Anootation 2.csproj": {}
+    "C:\\Users\\user\\source\\repos\\.NET Road Map\\Entity-Framework\\ForeignKey Atribute\\Data Anootation 2\\Data Anootation 2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\source\\repos\\.NET Road Map\\Entity-Framework\\Data Anootation 2\\Data Anootation 2\\Data Anootation 2.csproj": {
+    "C:\\Users\\user\\source\\repos\\.NET Road Map\\Entity-Framework\\ForeignKey Atribute\\Data Anootation 2\\Data Anootation 2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\.NET Road Map\\Entity-Framework\\Data Anootation 2\\Data Anootation 2\\Data Anootation 2.csproj",
+        "projectUniqueName": "C:\\Users\\user\\source\\repos\\.NET Road Map\\Entity-Framework\\ForeignKey Atribute\\Data Anootation 2\\Data Anootation 2.csproj",
         "projectName": "Data Anootation 2",
-        "projectPath": "C:\\Users\\user\\source\\repos\\.NET Road Map\\Entity-Framework\\Data Anootation 2\\Data Anootation 2\\Data Anootation 2.csproj",
+        "projectPath": "C:\\Users\\user\\source\\repos\\.NET Road Map\\Entity-Framework\\ForeignKey Atribute\\Data Anootation 2\\Data Anootation 2.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\.NET Road Map\\Entity-Framework\\Data Anootation 2\\Data Anootation 2\\obj\\",
+        "outputPath": "C:\\Users\\user\\source\\repos\\.NET Road Map\\Entity-Framework\\ForeignKey Atribute\\Data Anootation 2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\source\\repos\\EntityFramework\\EntityFramework\\EntityFramework.csproj": {}
+    "C:\\Users\\user\\source\\repos\\.NET Road Map\\Entity-Framework\\EntityFramework\\EntityFramework\\EntityFramework.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\source\\repos\\EntityFramework\\EntityFramework\\EntityFramework.csproj": {
+    "C:\\Users\\user\\source\\repos\\.NET Road Map\\Entity-Framework\\EntityFramework\\EntityFramework\\EntityFramework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\EntityFramework\\EntityFramework\\EntityFramework.csproj",
+        "projectUniqueName": "C:\\Users\\user\\source\\repos\\.NET Road Map\\Entity-Framework\\EntityFramework\\EntityFramework\\EntityFramework.csproj",
         "projectName": "EntityFramework",
-        "projectPath": "C:\\Users\\user\\source\\repos\\EntityFramework\\EntityFramework\\EntityFramework.csproj",
+        "projectPath": "C:\\Users\\user\\source\\repos\\.NET Road Map\\Entity-Framework\\EntityFramework\\EntityFramework\\EntityFramework.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\EntityFramework\\EntityFramework\\obj\\",
+        "outputPath": "C:\\Users\\user\\source\\repos\\.NET Road Map\\Entity-Framework\\EntityFramework\\EntityFramework\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

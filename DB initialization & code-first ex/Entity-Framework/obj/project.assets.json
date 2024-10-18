@@ -1058,11 +1058,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\source\\repos\\Entity-Framework\\Entity-Framework\\Entity-Framework.csproj",
+      "projectUniqueName": "C:\\Users\\user\\source\\repos\\.NET Road Map\\Entity-Framework\\DB initialization & code-first ex\\Entity-Framework\\Entity-Framework.csproj",
       "projectName": "Entity-Framework",
-      "projectPath": "C:\\Users\\user\\source\\repos\\Entity-Framework\\Entity-Framework\\Entity-Framework.csproj",
+      "projectPath": "C:\\Users\\user\\source\\repos\\.NET Road Map\\Entity-Framework\\DB initialization & code-first ex\\Entity-Framework\\Entity-Framework.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\source\\repos\\Entity-Framework\\Entity-Framework\\obj\\",
+      "outputPath": "C:\\Users\\user\\source\\repos\\.NET Road Map\\Entity-Framework\\DB initialization & code-first ex\\Entity-Framework\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

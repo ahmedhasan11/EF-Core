@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "J8u2VxxkEB3xdHV7+FO1XeriURhlYiwRhUQGPGq8HvUXvsK8qWqqdxXH+MVtwDpJ6OQF/qO3L4fQuonG4KL/Kg==",
+  "dgSpecHash": "Q4HgT42T/0C13o+6KQnYBhNjd2gizZYz5c/xCQc5A4QH8c22g75fnaKQWmEK8fu0FiuPeejNJFAR5RO4jTB5oQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\source\\repos\\.NET Road Map\\Entity-Framework\\Data Anootation 2\\Data Anootation 2\\Data Anootation 2.csproj",
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\.NET Road Map\\Entity-Framework\\ForeignKey Atribute\\Data Anootation 2\\Data Anootation 2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\entityframework\\6.5.1\\entityframework.6.5.1.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

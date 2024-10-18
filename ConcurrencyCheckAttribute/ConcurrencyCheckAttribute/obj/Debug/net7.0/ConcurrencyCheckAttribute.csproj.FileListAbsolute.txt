@@ -1,0 +1,4 @@
+C:\Users\user\source\repos\.NET Road Map\Entity-Framework\ConcurrencyCheckAttribute\ConcurrencyCheckAttribute\obj\Debug\net7.0\ConcurrencyCheckAttribute.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\.NET Road Map\Entity-Framework\ConcurrencyCheckAttribute\ConcurrencyCheckAttribute\obj\Debug\net7.0\ConcurrencyCheckAttribute.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\.NET Road Map\Entity-Framework\ConcurrencyCheckAttribute\ConcurrencyCheckAttribute\obj\Debug\net7.0\ConcurrencyCheckAttribute.AssemblyInfo.cs
+C:\Users\user\source\repos\.NET Road Map\Entity-Framework\ConcurrencyCheckAttribute\ConcurrencyCheckAttribute\obj\Debug\net7.0\ConcurrencyCheckAttribute.csproj.CoreCompileInputs.cache

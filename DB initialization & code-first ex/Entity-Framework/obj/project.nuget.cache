@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lhtLfeLk1n9QL6OTe57ul5zKNJiNq8JiyssYiETAu1D9L1won16rbHQKF2Hr6/R2ls0jJlfJr4X2OvOCRHV9Hg==",
+  "dgSpecHash": "8FMOzkN1paJQayGDCD5rWKbIrFBi8kFw5Q52K75HD2eqnyWbeMit9/ZGDYJYfMmXnzwQWBGBH3cMLDpYpk9nNw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\source\\repos\\Entity-Framework\\Entity-Framework\\Entity-Framework.csproj",
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\.NET Road Map\\Entity-Framework\\DB initialization & code-first ex\\Entity-Framework\\Entity-Framework.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\entityframework\\6.5.1\\entityframework.6.5.1.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
